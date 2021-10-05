@@ -20,6 +20,7 @@ Google Cloud, basic web development (html5, css, php, jinja2), Tensorflow
 **Software Engineer (currently) — Accenture, Bratislava**  
 Worked on cloud-based services written in Python, using latest tech such as Docker/Kubernetes, MariaDB, Azure, Elastic Search etc.  
 Projects included a Chatbot API and Invoice reading and processing automation.  
+
 **Backend Programmer (2018-2020) — Seznam, Brno**  
 Mostly Python programming for Seznams CDN team.  
 Projects included Video/Audio Encoding, Encryption, Storage, Image Recognition etc.  
