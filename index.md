@@ -1,6 +1,8 @@
 **Alexander Bacho**  
 *alex.sani.bacho@gmail.com*
 
+https://www.linkedin.com/in/alexander-bacho-352a5916b/
+
 ## Languages:
 Slovak – native  
 English – C1 
