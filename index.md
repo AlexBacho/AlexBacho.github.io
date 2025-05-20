@@ -43,11 +43,11 @@ https://www.linkedin.com/in/alexander-bacho-352a5916b/
 ## Experience  
 
 ### Senior Software Engineer – AI Platform  
-**Accenture, Bratislava** (2024–Present)  
+**Accenture, Bratislava** (2023–Present)  
 In my role as a team lead / consultant-level engineer at Accenture, I’ve gained valuable experience developing for a major client in the automotive industry. Our team leveraged modern Azure and AWS solutions to build in-house data processing and retrieval systems using internal GPT instances. The pace was fast, and we successfully delivered a product that is now actively used by both client employees and end customers.
 
 ### AI Developer  
-**IQVIA, Bratislava** (2022–2024)  
+**IQVIA, Bratislava** (2022–2023)  
 As a senior backend developer, I worked closely with AI engineers and researchers to transform proof-of-concept scripts into production-ready applications. My work included developing APIs (FastAPI/Django), handling data preprocessing and postprocessing, setting up CI/CD pipelines, and creating reusable libraries to improve team productivity.
 
 ### Software Engineer  
