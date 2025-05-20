@@ -8,29 +8,34 @@ Slovak – native
 English – C1 
 
 ## Programming Languages:
-Python – Professional (5+ years)
+Python – Professional (6+ years)
 
-Bash – Professional  (5+ years)
+Bash – Professional  (6+ years)
 
-Javascript - Proficient (1+ years)
+Javascript - Current Self-learning
 
 ## Tech Stack:
 **Daily use:**
 
-Linux, Git, PostgreSQL, Kubernetes, Docker, FastAPI
+Linux, Git, PostgreSQL, Kubernetes, Docker, FastAPI, Azure Cloud
 
 **Professional experience with:**
 
-MySQL, Salt, Elastic Search, RabbitMQ, FFMPEG, Azure, MariaDB, Django
+Azure Vector DB, Non-sql DB, MySQL, Salt, Elastic Search, RabbitMQ, FFMPEG, MariaDB, Django, AWS Lambda Solutions
 
 **Unpaid experience with:**
 
 Google Cloud, basic web development (html5, css, php, jinja2), Tensorflow  
 
 ## Experience
-**AI Developer (2022+) — Iqvia, Bratislava**
+**Senior Software Engineer - AI Platform (2024-current) — Accenture, Bratislava**
 
-As a seasoned Senior Backend Developer, I collaborate closely with AI engineers and scientists to seamlessly transition their Proof of Concepts (POCs) and scripts into production-ready code. My primary responsibilities encompass diverse areas, including API development with FastAPI or Django, data pre and post-processing, DevOps tasks such as the establishment of CI/CD pipelines, and the creation of reusable libraries aimed at enhancing team efficiency.
+Working for Accenture as a team-lead / consultant level engineer, I have gained great experience developing for a large client in the automobile industry. Our team leveraged modern solutions in Azure and AWS to create inhouse data processing
+and retrieval via internal GPT instances. As is the nature of this industry, we moved rapibly a delivered a product already in use by both the clients employees and customers.  
+
+**AI Developer (2022-2024) — Iqvia, Bratislava**
+
+As a seasoned Senior Backend Developer, I collaborated closely with AI engineers and scientists to seamlessly transition their Proof of Concepts (POCs) and scripts into production-ready code. My primary responsibilities encompassed diverse areas, including API development with FastAPI or Django, data pre and post-processing, DevOps tasks such as the establishment of CI/CD pipelines, and the creation of reusable libraries aimed at enhancing team efficiency.
 
 **Software Engineer (2020-2022) — Accenture, Bratislava** 
 
