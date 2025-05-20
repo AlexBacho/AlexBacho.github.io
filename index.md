@@ -3,58 +3,70 @@
 
 https://www.linkedin.com/in/alexander-bacho-352a5916b/
 
-## Languages:
-Slovak – native  
-English – C1 
+## Languages  
+- **Slovak** – Native  
+- **English** – C1  
 
-## Programming Languages:
-Python – Professional (6+ years)
+## Programming Languages  
+- **Python** – Professional (6+ years)  
+- **Bash** – Professional (6+ years)  
+- **JavaScript** – Currently self-learning  
 
-Bash – Professional  (6+ years)
+## Tech Stack  
 
-Javascript - Current Self-learning
+**Daily use:**  
+- Linux  
+- Git  
+- PostgreSQL  
+- Kubernetes  
+- Docker  
+- FastAPI  
+- Azure Cloud  
 
-## Tech Stack:
-**Daily use:**
+**Professional experience with:**  
+- Azure Vector DB  
+- NoSQL databases  
+- MySQL  
+- Salt  
+- Elasticsearch  
+- RabbitMQ  
+- FFMPEG  
+- MariaDB  
+- Django  
+- AWS Lambda  
 
-Linux, Git, PostgreSQL, Kubernetes, Docker, FastAPI, Azure Cloud
+**Unpaid experience with:**  
+- Google Cloud  
+- Basic web development (HTML5, CSS, PHP, Jinja2)  
+- TensorFlow  
 
-**Professional experience with:**
+## Experience  
 
-Azure Vector DB, Non-sql DB, MySQL, Salt, Elastic Search, RabbitMQ, FFMPEG, MariaDB, Django, AWS Lambda Solutions
+### Senior Software Engineer – AI Platform  
+**Accenture, Bratislava** (2024–Present)  
+In my role as a team lead / consultant-level engineer at Accenture, I’ve gained valuable experience developing for a major client in the automotive industry. Our team leveraged modern Azure and AWS solutions to build in-house data processing and retrieval systems using internal GPT instances. The pace was fast, and we successfully delivered a product that is now actively used by both client employees and end customers.
 
-**Unpaid experience with:**
+### AI Developer  
+**IQVIA, Bratislava** (2022–2024)  
+As a senior backend developer, I worked closely with AI engineers and researchers to transform proof-of-concept scripts into production-ready applications. My work included developing APIs (FastAPI/Django), handling data preprocessing and postprocessing, setting up CI/CD pipelines, and creating reusable libraries to improve team productivity.
 
-Google Cloud, basic web development (html5, css, php, jinja2), Tensorflow  
+### Software Engineer  
+**Accenture, Bratislava** (2020–2022)  
+Worked on cloud-based services using modern technologies such as Docker, Kubernetes, MariaDB, Azure, and Elasticsearch. Projects included chatbot APIs and automated invoice reading and processing systems.
 
-## Experience
-**Senior Software Engineer - AI Platform (2024-current) — Accenture, Bratislava**
+### Backend Programmer  
+**Seznam.cz, Brno** (2018–2020)  
+Focused on Python development within Seznam’s CDN team. Projects included video/audio encoding, encryption, distributed storage, and image recognition pipelines.
 
-Working for Accenture as a team-lead / consultant level engineer, I have gained great experience developing for a large client in the automobile industry. Our team leveraged modern solutions in Azure and AWS to create inhouse data processing
-and retrieval via internal GPT instances. As is the nature of this industry, we moved rapibly a delivered a product already in use by both the clients employees and customers.  
+## Education  
 
-**AI Developer (2022-2024) — Iqvia, Bratislava**
+### Masaryk University – *Applied Informatics*  
+**Brno** (2017–2018)  
+Discontinued attendance after securing a full-time role at Seznam.cz.
 
-As a seasoned Senior Backend Developer, I collaborated closely with AI engineers and scientists to seamlessly transition their Proof of Concepts (POCs) and scripts into production-ready code. My primary responsibilities encompassed diverse areas, including API development with FastAPI or Django, data pre and post-processing, DevOps tasks such as the establishment of CI/CD pipelines, and the creation of reusable libraries aimed at enhancing team efficiency.
+### Gymnázium Jura Hronca – *8-year program*  
+**Bratislava** (2009–2017)  
+Focused on mathematics and programming. Graduated with a 1.5 GPA (1 being the highest score).
 
-**Software Engineer (2020-2022) — Accenture, Bratislava** 
-
-Worked on cloud-based services written in Python, using latest tech such as Docker/Kubernetes, MariaDB, Azure, Elastic Search etc.  
-Projects included a Chatbot API and Invoice reading and processing automation.  
-
-**Backend Programmer (2018-2020) — Seznam, Brno**  
-
-Mostly Python programming for Seznams CDN team.  
-Projects included Video/Audio Encoding, Encryption, Storage, Image Recognition etc.  
-
-## Education
-**Masarykova Univerzita (2017-2018)** — *Applied Informatics, Brno*
-
-I stopped attendence after landing a job at Seznam.
-
-**Gymnazium Jura Hronca (2009-2017)** — *8-year program, Bratislava* 
-
-Focus placed on mathematics and programming, graduated with a 1.5 grade average (1 being the perfect score).
-
-## Aspirations
-Based on the majority of personality assessments I have undergone, my most prominent trait appears to be that of a dedicated learner, and I agree with this evaluation. My passion for learning is what propelled me to embark on the journey of becoming a full-stack developer, with a long-term aspiration of evolving into a proficient architect.
+## Aspirations  
+According to most personality assessments I’ve taken, my strongest trait is a deep dedication to learning—and I agree. My curiosity and drive to improve led me to pursue full-stack development, and my long-term goal is to grow into the role of a proficient software architect.
