@@ -8,9 +8,9 @@ https://www.linkedin.com/in/alexander-bacho-352a5916b/
 - **English** – C1  
 
 ## Programming Languages  
-- **Python** – Professional (6+ years)  
-- **Bash** – Professional (6+ years)  
-- **JavaScript** – Currently self-learning  
+- **Python** – Professional (7+ years)  
+- **Bash** – Professional (7+ years)  
+- **React** – Professional (2+ years)
 
 ## Tech Stack  
 
@@ -21,30 +21,21 @@ https://www.linkedin.com/in/alexander-bacho-352a5916b/
 - Kubernetes  
 - Docker  
 - FastAPI  
-- Azure Cloud  
+- Azure Cloud
+- AWS CLI  
 
 **Professional experience with:**  
-- Azure Vector DB  
-- NoSQL databases  
-- MySQL  
-- Salt  
-- Elasticsearch  
-- RabbitMQ  
-- FFMPEG  
-- MariaDB  
-- Django  
-- AWS Lambda  
-
-**Unpaid experience with:**  
-- Google Cloud  
-- Basic web development (HTML5, CSS, PHP, Jinja2)  
-- TensorFlow  
+- Azure Vector DB, Searchservice, Weavite
+- dynamo, cosmos
+- Elasticsearch, Deepeval
+- RabbitMQ, Redis, SQS
+- Datadog, Amplitude
 
 ## Experience  
 
 ### Senior Software Engineer – AI Platform  
 **Accenture, Bratislava** (2023–Present)  
-In my role as a team lead / consultant-level engineer at Accenture, I’ve gained valuable experience developing for a major client in the automotive industry. Our team leveraged modern Azure and AWS solutions to build in-house data processing and retrieval systems using internal GPT instances. The pace was fast, and we successfully delivered a product that is now actively used by both client employees and end customers.
+In my role as a tech lead at Accenture, I’ve gained valuable experience developing for a major client in the automotive industry. Our team leveraged modern Azure and AWS solutions to build in-house data processing and retrieval systems using internal GPT instances. The pace was fast, and we successfully delivered a product that is now actively used by both client employees and end customers, with projections reaching 32 000 unique users in the coming year.
 
 ### AI Developer  
 **IQVIA, Bratislava** (2022–2023)  
